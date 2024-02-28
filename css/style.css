@@ -1,0 +1,148 @@
+*{
+    margin: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.header-class{
+    background-color: #fff8f3;
+    background-image: url(/images-20240121T050556Z-001/images/header_bg.png),url(/images-20240121T050556Z-001/images/developer.png);
+    background-repeat: no-repeat;
+    background-position: right bottom ,left;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 75px 200px;
+}
+span{
+    color: #fd6e0a;
+}
+div ul{
+    display: flex;
+    align-items: center;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+ul li{
+    margin-left: 40px;
+    list-style: none;
+}
+.title{
+    font: size 45px;
+    font-weight: 800;
+}
+.parimary-btn{
+    background-color: #fd6e0a;
+    border-radius: 5px;
+    border: 5px;
+    height: 65px;
+    font-weight: 150;
+    color: white;
+    border: none;
+    font-weight: 700;
+    font-size: 15px;
+    
+}
+.bannar{
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+}
+.bannar-title{
+    font-size: 45px;
+    font-weight: 600;
+    color: #fd6e0a;
+    align-items: center;
+    padding: 0px 30px 0px 200px;
+}
+.mary{
+    font-size: 85px;
+    font-weight: 700;
+    color: #757575;
+}
+.group{
+    margin-top: 30px;
+}
+.button-contact{
+    color: #fd6e0a;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px;
+    border: 1px solid #fd6e0a;
+    background-color: rgba(255, 255, 255, 0);
+}
+.mm{
+    padding: 130px;
+    text-align: center;
+}
+.about{
+    width: 1140px;
+    height: 55px;
+    border-radius: 10px;
+    background: #fff8f3;
+}
+.me{
+    color:#181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.detalilas{
+    color: #181818;
+
+    font-size: 18px;
+    font-weight: 400;
+}
+.win{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+}
+.name{
+    color: #474747;
+    font-size: 20px;
+    font-weight: 400;
+    
+}
+.dd{
+    color: #474747;
+    font-size: 20px;
+    font-weight: 700;
+}
+.what-i{
+    margin: 130px;
+}
+.do{
+    margin: 130px;
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.new{
+    color: #757575;
+    text-align: center;
+    font-size:18px ;
+    font-weight:400 ;
+    margin: 100px;
+}
+.skil{
+    display: flex;
+    justify-content: space-between;
+}
+.skill-father{
+    border-radius: 5px;
+    background-color: #fff;
+}
+.skill-title{
+    font-size: 20px;
+}
+.skill-para{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+}
